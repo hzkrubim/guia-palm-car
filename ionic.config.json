@@ -1,0 +1,8 @@
+{
+  "name": "guia-palm-car",
+  "app_id": "ca320e27",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
